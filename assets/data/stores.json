@@ -1,962 +1,1002 @@
 [
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.711215,
-          "lng": 101.952878
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.07684,
+                "lng": 101.588298
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.078203880291502,
+                    "lng": 101.5896317302915
+                },
+                "southwest": {
+                    "lat": 3.075505919708498,
+                    "lng": 101.5869337697085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.712567730291502,
-            "lng": 101.9541656802915
-          },
-          "southwest": {
-            "lat": 2.709869769708498,
-            "lng": 101.9514677197085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-      "icon_background_color": "#4B96F3",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-      "name": "Impact Exclusive Shop",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 1920,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107988594975610035104\">Latha Alto</a>"
-          ],
-          "photo_reference": "AcJnMuHJQ1W2Q5oKjIYcee86KrlSwyrxFOGnkNNd1jkGYC5AHsRt7TL1-DWXKLFlpLGJqJ9UG5FjUNPhf5UYQEIoqQUbabrMeL2a8m6rWfWbu0ByOkJXq74Wrzjr9pOaQSzvXWMJm_Ttw2DVadiSh0gny61RJETGwaTp-4QeTexMpm1VF1m_",
-          "width": 2560
-        }
-      ],
-      "place_id": "ChIJHUDHkWbnzTERDifimAz719c",
-      "plus_code": {
-        "compound_code": "PX63+F5 Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PX63+F5"
-      },
-      "reference": "ChIJHUDHkWbnzTERDifimAz719c",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "store",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "Jalan Zaaba, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "CannyCool Tinted Specialist",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 809,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105129716963817951906\">CannyCool Tinted Specialist</a>"
+                ],
+                "photo_reference": "AWU5eFjtiPj9bV6ruaMASA60cy9V7nbWppU6QaamTclAclXqE43brlMHE_RtzarDwqQOsg3cfPpDjkqi2IuL9jHvV5kjCX82vpNDG-FsIJ0q8VntU9C7YJ73GYRx4sqCjjaDacAJhp2dDk9NBp_E2OVfKuSuH_pvUjEL0abEtW2mdr1fRYrn",
+                "width": 1439
+            }
+        ],
+        "place_id": "ChIJZ50Q215MzDERzcw7ENOkMcM",
+        "plus_code": {
+            "compound_code": "3HGQ+P8 Subang Jaya, Selangor, Malaysia",
+            "global_code": "6PM33HGQ+P8"
+        },
+        "rating": 4,
+        "reference": "ChIJZ50Q215MzDERzcw7ENOkMcM",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 341,
+        "vicinity": "59, Jalan SS 15/4c, Ss 15, Subang Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.6920588,
-          "lng": 101.9703568
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.0426336,
+                "lng": 101.5950928
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.044134280291502,
+                    "lng": 101.5964372302915
+                },
+                "southwest": {
+                    "lat": 3.041436319708498,
+                    "lng": 101.5937392697085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.693443980291502,
-            "lng": 101.9716319302915
-          },
-          "southwest": {
-            "lat": 2.690746019708498,
-            "lng": 101.9689339697085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-      "icon_background_color": "#4B96F3",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-      "name": "Isuzu Seremban - Ultra Gallant Sdn Bhd",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 4608,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/105393807412002121897\">Shariff Samad</a>"
-          ],
-          "photo_reference": "AcJnMuGkjoWiTak99UN7WBM-SkMM9B0Mm8Ygq0xGpD6jxvTU3T-K0QcfFlOBqMhbrtz17MnuiVNkrWw6sTrDDvthQoer-ScGrsdYFTuo-tcFEZjoE6cMXYDiaeOAcpvQyK_Hhfp_xvE_D_H1SJ36opHlurJVvs8Bco6Ao75uXrmjQo-LS64r",
-          "width": 3456
-        }
-      ],
-      "place_id": "ChIJzV1ia0bnzTERrhdu6sHL3cs",
-      "plus_code": {
-        "compound_code": "MXRC+R4 Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3MXRC+R4"
-      },
-      "rating": 4.1,
-      "reference": "ChIJzV1ia0bnzTERrhdu6sHL3cs",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "car_dealer",
-        "store",
-        "insurance_agency",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 121,
-      "vicinity": "Lot 2413, Pekan Rahang Baru, Jalan Tampin, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "USJ Honda 4S Centre (HQ)",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3054,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109031308243646130130\">Allan Choy</a>"
+                ],
+                "photo_reference": "AWU5eFj5TOh5dAdCA3lCgJiOlLqMlGik-awM4NjsfbXP0aMzPAArpUs6coKUUINFREPY6wyo6RSv_yYvwtv21PVeRyXSoxpxwSsMV_9VTt1tSPCBvHUGDrMQ84locdmGl5k7Lbuk2iomHdx06U78JrYb-oSVexggzNUqzTZFsYp4OkzyJg2Y",
+                "width": 6922
+            }
+        ],
+        "place_id": "ChIJwewLsLdMzDERW2qcOI7RgtY",
+        "plus_code": {
+            "compound_code": "2HVW+32 Subang Jaya, Selangor, Malaysia",
+            "global_code": "6PM32HVW+32"
+        },
+        "rating": 4.2,
+        "reference": "ChIJwewLsLdMzDERW2qcOI7RgtY",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "insurance_agency",
+            "car_dealer",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1076,
+        "vicinity": "Lot 792, Persiaran Subang Indah, Taman Perindustrian Subang, Subang Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.7134928,
-          "lng": 101.9506215
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.0302028,
+                "lng": 101.5877456
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.031507830291502,
+                    "lng": 101.5890683802915
+                },
+                "southwest": {
+                    "lat": 3.028809869708498,
+                    "lng": 101.5863704197085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.714913480291502,
-            "lng": 101.9520166802915
-          },
-          "southwest": {
-            "lat": 2.712215519708498,
-            "lng": 101.9493187197085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-      "icon_background_color": "#7B9EB0",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
-      "name": "Wheelex Sdn. Bhd.",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 1000,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107889492898869965620\">SA</a>"
-          ],
-          "photo_reference": "AcJnMuEVlaTJuHM18359NSZqxk4CjbQrboNd8LMeXUeNNqhcahWgztDk4Cr1_Kzq1MeHn0pNjFb3eMiSDxT4szUgvybaHVm7b7r9rYOHoujgPr6URvYVV6dUjGq9MEDURzW50I_B8PvMR_r2tiJyblx9zqWTti3AEcZ-hkm7Sq33oP9bnWus",
-          "width": 537
-        }
-      ],
-      "place_id": "ChIJ-Ss8DmPnzTERlf-Q7CDFpbo",
-      "plus_code": {
-        "compound_code": "PX72+96 Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PX72+96"
-      },
-      "rating": 4.5,
-      "reference": "ChIJ-Ss8DmPnzTERlf-Q7CDFpbo",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 6,
-      "vicinity": "Jalan Tuanku Antah, Bukit Rasah, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "E Mech Auto Service",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102191120471667968232\">Stephen Kok (Stevo Meano)</a>"
+                ],
+                "photo_reference": "AWU5eFi7JmhDm906yjMmLB8tWJ9JcE9lQquMfgzfwD1FLz469PRyORxKCIvgGoDe4OaoEaalLAxfJzd_qdazXgFU2ngxvreIFyEg_mLCNf9yXsOOTx6YCeZvOkjdZGC-5zHm-UBU1_U8DDuJmH4fmiSf1OSkQhOy_tC0SdYBfm46uLaLO8sO",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJiTqSAzSzzTERwI8sCQUWVoE",
+        "plus_code": {
+            "compound_code": "2HJQ+33 Subang Jaya, Selangor, Malaysia",
+            "global_code": "6PM32HJQ+33"
+        },
+        "rating": 4.9,
+        "reference": "ChIJiTqSAzSzzTERwI8sCQUWVoE",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 24,
+        "vicinity": "23, Jalan USJ 19/2, Usj 19, Subang Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.680789,
-          "lng": 101.9425727
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.069316,
+                "lng": 101.6022908
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.070665580291501,
+                    "lng": 101.6037407802915
+                },
+                "southwest": {
+                    "lat": 3.067967619708498,
+                    "lng": 101.6010428197085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.682157480291502,
-            "lng": 101.9439603802915
-          },
-          "southwest": {
-            "lat": 2.679459519708498,
-            "lng": 101.9412624197085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-      "icon_background_color": "#7B9EB0",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
-      "name": "Petri Seremban Automobil Sdn. Bhd.",
-      "opening_hours": {
-        "open_now": false
-      },
-      "place_id": "ChIJVVVVlQLnzTERf_RoDsspxSg",
-      "plus_code": {
-        "compound_code": "MWJV+82 Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3MWJV+82"
-      },
-      "rating": 3.7,
-      "reference": "ChIJVVVVlQLnzTERf_RoDsspxSg",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 14,
-      "vicinity": "2580, Taman Rasah Jaya, Seremban, 70300, Seremban, Negeri Sembilan"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Kakimotor Sdn. Bhd.",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104533855917214438918\">Kakimotor Sdn. Bhd.</a>"
+                ],
+                "photo_reference": "AWU5eFj9uPL0hG4RtFmUzByhhAiQ7JHD8kaisWGA3JizJHNn1HtBmpU3M-NdVbe4xwu-3F-P0anumVK7wBI_PoF2PJxxl2RZtg4k75L6D_6xPD4zDjJQsvQSreAiG6DvW7-XGqbtO-zM7aXfY9D20VBhXQjIE3JnuhZKXtkqSqQcwoiHu5Ho",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJdYolDoNMzDERgxlOBKs3ZZA",
+        "plus_code": {
+            "compound_code": "3J92+PW Petaling Jaya, Selangor, Malaysia",
+            "global_code": "6PM33J92+PW"
+        },
+        "rating": 4.1,
+        "reference": "ChIJdYolDoNMzDERgxlOBKs3ZZA",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 139,
+        "vicinity": "47 & 49, Jalan PJS 11/7, Bandar Sunway, Petaling Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.7069547,
-          "lng": 101.9406733
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.0419361,
+                "lng": 101.564254
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.043264830291502,
+                    "lng": 101.5656071802915
+                },
+                "southwest": {
+                    "lat": 3.040566869708498,
+                    "lng": 101.5629092197085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.708296480291502,
-            "lng": 101.9420574802915
-          },
-          "southwest": {
-            "lat": 2.705598519708498,
-            "lng": 101.9393595197085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-      "icon_background_color": "#7B9EB0",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
-      "name": "KWANG YU MOTOR PARTS SDN BHD - MAXXIS DEALER - KURADO MALAYSIA OFFICIAL - NEWBI PRODUCT OFFICIAL TIMSUN FRANCHISE SEREMBAN",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 1440,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/115899220112038468933\">KWANG YU MOTOR PARTS SDN BHD - MAXXIS DEALER - KURADO ASIA CEO - NEWBI PRODUCT CEO - TIMSUN FRANCHISE SEREMBAN - LOMA</a>"
-          ],
-          "photo_reference": "AcJnMuHO0MqXAZeVVsWYvAxpOJFD-G8SXycO1Gwpb0yRN7-0uh-PJbzKROF82cpYohtit4EPNnI4PwS1zpCPb6ZWTnhEm6LkYC6hqcEEt4DV1yVCNHy9vSmK6fdGuROAmW-Su5j2LLluN_FdMhLueKG0QkBSOMmWs6wf7HJDNRZq2XJ2r3uA",
-          "width": 1080
-        }
-      ],
-      "place_id": "ChIJ0ZeS-grnzTERXO4PKnQOLxw",
-      "plus_code": {
-        "compound_code": "PW4R+Q7 Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PW4R+Q7"
-      },
-      "rating": 5,
-      "reference": "ChIJ0ZeS-grnzTERXO4PKnQOLxw",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 2,
-      "vicinity": "1178, Jalan Rasah, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "PROTON MOTORSPORTS R3",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2304,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113012553116484195179\">PROTON MOTORSPORTS R3</a>"
+                ],
+                "photo_reference": "AWU5eFgncSeXKBaTgxah9TAepi3Qd7GHnDEUvEfkNWVaE64g2ZMf8uUcxR7A8DVzqzOCqoODe4v8STcWapT085keYYWBKN9Y3AvkuaNb4K9RXlCM9ZkagvnoBrswliWmkxwWJBg42JnA1PCrmwG48clLTgpopfLk_9R-xW0U_qbyPEuuKH-M",
+                "width": 4096
+            }
+        ],
+        "place_id": "ChIJ827q0y5NzDERCzkQxjhFfuQ",
+        "plus_code": {
+            "compound_code": "2HR7+QP Subang Jaya, Selangor, Malaysia",
+            "global_code": "6PM32HR7+QP"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ827q0y5NzDERCzkQxjhFfuQ",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 44,
+        "vicinity": "Proton R3, Ground Floor, Proton Edar Vehicle Preparation Centre (VPC) Jalan TP2, Taman Perindustrian Subang, Subang Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.711564300000001,
-          "lng": 101.9525886
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.0474213,
+                "lng": 101.5876174
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.048814530291502,
+                    "lng": 101.5890087802915
+                },
+                "southwest": {
+                    "lat": 3.046116569708498,
+                    "lng": 101.5863108197085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.713160630291502,
-            "lng": 101.9539080302915
-          },
-          "southwest": {
-            "lat": 2.710462669708499,
-            "lng": 101.9512100697085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-      "icon_background_color": "#4B96F3",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-      "name": "Spare Part Kereta Seremban & Windscreen Repair | N U Auto Supply SB",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 750,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107771400051302513644\">Spare Part Kereta Seremban &amp; Windscreen Repair | N U Auto Supply SB</a>"
-          ],
-          "photo_reference": "AcJnMuHsU2TEds3SIxgmFZukhws37k79ZK6aMfidt1H4wcfx0liFLKGW-aWEQ_OfPHMI2RZla7wAOdV99SbInlcBh55U_heNf2t_cyUObNorcYIv47VLP96ZHPs8oMCMqV7TDxkv4GepJGbNxmjA_btY7y2I_Vq4_9EmMIK4OKJOaZfmKMzn",
-          "width": 1000
-        }
-      ],
-      "place_id": "ChIJob3W_2LnzTERwAzr0J7N4zI",
-      "plus_code": {
-        "compound_code": "PX63+J2 Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PX63+J2"
-      },
-      "rating": 3.9,
-      "reference": "ChIJob3W_2LnzTERwAzr0J7N4zI",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "store",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 140,
-      "vicinity": "66 & 68, Jalan Za'aba, 70100, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ecotint (M) Sdn Bhd",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111085720119815671937\">Ecotint (M) Sdn Bhd</a>"
+                ],
+                "photo_reference": "AWU5eFjSdh3u-i53EbnKmqOwJlZkW-87C1C1XzDFniGfWzb6ztHu72jGBkfNmdKKrFgPRQC_SV5FG3t9-PaF7wNY_vewbPxDxPx8F6K9rJjkffWJ2mDhFxBCO-XvfgIRmEnrCz9Y_DO2znr0U1LlEjrYoFMtDUeWAwtVAGfKqh0EfDIbC6ZC",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJtRXIicZMzDERDJb6GiXYY5A",
+        "plus_code": {
+            "compound_code": "2HWQ+X2 Subang Jaya, Selangor, Malaysia",
+            "global_code": "6PM32HWQ+X2"
+        },
+        "rating": 4.1,
+        "reference": "ChIJtRXIicZMzDERDJb6GiXYY5A",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 52,
+        "vicinity": "Jalan USJ 9/5r, Subang Business Centre, Subang Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.7264007,
-          "lng": 101.9307797
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.070996,
+                "lng": 101.6000899
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.072242180291501,
+                    "lng": 101.6014365302915
+                },
+                "southwest": {
+                    "lat": 3.069544219708498,
+                    "lng": 101.5987385697085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.727785930291502,
-            "lng": 101.9320548302915
-          },
-          "southwest": {
-            "lat": 2.725087969708499,
-            "lng": 101.9293568697085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-      "icon_background_color": "#7B9EB0",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
-      "name": "Raytech Seremban #ERA SQUARE (Tinted Shop)",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 900,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/103059392303897300177\">Raytech Seremban (Tinted Shop)</a>"
-          ],
-          "photo_reference": "AcJnMuH79NfPsjxT1m_SLBK9fhB4I2MZ8uoakD2AzgUmQHnWyhXu6uHrd0YgJF31PGu6mjYFhcqfKH4viRpJNZF8rBB0HBhDFYMmRPcYFBRtHVy6MFe1Hp58bOt5Pgu9el-Gesbi1QBdgigVsMLXh06wfKUcFjlI5-eRXOmfcya7HpKss5wT",
-          "width": 1600
-        }
-      ],
-      "place_id": "ChIJl7KsvnndzTERGTZmpEchZjM",
-      "plus_code": {
-        "compound_code": "PWGJ+H8 Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PWGJ+H8"
-      },
-      "rating": 4.8,
-      "reference": "ChIJl7KsvnndzTERGTZmpEchZjM",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 121,
-      "vicinity": "8, Jalan Era Square 2, Era Square, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Benzin Auto Care Sdn Bhd",
+        "place_id": "ChIJaUj9colMzDERNSHq_1zF8JY",
+        "plus_code": {
+            "compound_code": "3JC2+92 Subang Jaya, Selangor, Malaysia",
+            "global_code": "6PM33JC2+92"
+        },
+        "reference": "ChIJaUj9colMzDERNSHq_1zF8JY",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "32, Jalan PJS 11/14, Pjs 11, Subang Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.7161035,
-          "lng": 101.9455852
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.0250885,
+                "lng": 101.6226825
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.026488630291502,
+                    "lng": 101.6240408302915
+                },
+                "southwest": {
+                    "lat": 3.023790669708498,
+                    "lng": 101.6213428697085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.717377930291502,
-            "lng": 101.9468911802915
-          },
-          "southwest": {
-            "lat": 2.714679969708499,
-            "lng": 101.9441932197085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-      "icon_background_color": "#7B9EB0",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
-      "name": "Pusat Servis Tayar Karib Sdn. Bhd.",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 2976,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/115195209869723111382\">clemence chong</a>"
-          ],
-          "photo_reference": "AcJnMuE3vhTbAZaZgg3YzJ8wqXUQwKIGZgvkyIHw_FewCTthTPdEHwkanWbh7U7zRowpPR_mVNafzs4dj84hk63rcnbihUwkNMIaQf6xjH3QYtLBYYauyazpoqchG4CKJnW8cGaqRlec_iG523HvrYb76tU5cRPKd4Oa4l-E_H38ZRLeDzNy",
-          "width": 3968
-        }
-      ],
-      "place_id": "ChIJ-Ss8DmPnzTER3gFGS0u5DUo",
-      "plus_code": {
-        "compound_code": "PW8W+C6 Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PW8W+C6"
-      },
-      "rating": 3.7,
-      "reference": "ChIJ-Ss8DmPnzTER3gFGS0u5DUo",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 22,
-      "vicinity": "67, Jalan Tuanku Antah, Seremban, 70100, Seremban, Negeri Sembilan"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Lai Car Care & Service",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 288,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108043807979127709266\">Lai Car Care &amp; Service</a>"
+                ],
+                "photo_reference": "AWU5eFgss5eiQ2Euq_0lxHFK--SAPq9Ag8kS6woOFGM0IPXzHR79NRVSyxvevCjB7KWB32kObGCqzQMe_i_Ja8hBSEIJTeeLrZrbrn1fhtxZP6QAvmpPzgUzXqwIue4M15sNQWDOJEG8NAZFAbqWRrSP_5BhsYFVRvWsHH7ai-TDIBEO1nJI",
+                "width": 512
+            }
+        ],
+        "place_id": "ChIJF4ECT6-0zTERiOdeqRv5R_E",
+        "plus_code": {
+            "compound_code": "2JGF+23 Puchong, Selangor, Malaysia",
+            "global_code": "6PM32JGF+23"
+        },
+        "rating": 3.8,
+        "reference": "ChIJF4ECT6-0zTERiOdeqRv5R_E",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "7-1, Jalan Puteri 7/10, Bandar Puteri Puchong, Puchong"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.716739,
-          "lng": 101.9229948
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.066516,
+                "lng": 101.5982529
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.067864530291502,
+                    "lng": 101.5996625302915
+                },
+                "southwest": {
+                    "lat": 3.065166569708498,
+                    "lng": 101.5969645697085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.718082980291502,
-            "lng": 101.9243472302915
-          },
-          "southwest": {
-            "lat": 2.715385019708498,
-            "lng": 101.9216492697085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-      "icon_background_color": "#4B96F3",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-      "name": "R&M Auto Accessories",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 3456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/103533690209039267514\">R&amp;M Auto Accessories</a>"
-          ],
-          "photo_reference": "AcJnMuHrq49KHXtOOkiDNJZHauFDnS3LK1oVnNV_KxhA0RbjfvzlnNezjR_pTaB1z8eZgp-VbniA5b2h6DSWapB1Gw6EkoX7zi7y12k52tj6IsdLcrHUcl1X29IFtp03cLxaWd7o1pNWR0qbrEXd-3LPXQiiiqWcXFLEGM1a75dJDXqrzyr_",
-          "width": 3456
-        }
-      ],
-      "place_id": "ChIJw8_Z0XDnzTERnwzKbiz0bxw",
-      "plus_code": {
-        "compound_code": "PW8F+M5 Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PW8F+M5"
-      },
-      "rating": 4.7,
-      "reference": "ChIJw8_Z0XDnzTERnwzKbiz0bxw",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "electronics_store",
-        "store",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 7,
-      "vicinity": "No. 174, Jalan Toman 9, Kemayan Square, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "H Performance Motorsports Sdn Bhd",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 630,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110319969506641007690\">H Performance Motorsports Sdn Bhd</a>"
+                ],
+                "photo_reference": "AWU5eFjkIh0m1LW95uYCp1b-KZAinOlcsOyy8yRROgf9qPBxQoMPO4p7yYYfGcm6jReT92j9DsAoJ9xQ_sjGVEBJLifxZoVVebAry850tG3rgeZjL1dQlJqnGCl8ZrG7h4vf0O4byCC03ar0z2ZmKPqtBTWSnBZooDD-ZsffzEsV0J39I40v",
+                "width": 944
+            }
+        ],
+        "place_id": "ChIJl4_HP4lMzDERhOR1Ewr7QO4",
+        "plus_code": {
+            "compound_code": "3H8X+J8 Subang Jaya, Selangor, Malaysia",
+            "global_code": "6PM33H8X+J8"
+        },
+        "rating": 4,
+        "reference": "ChIJl4_HP4lMzDERhOR1Ewr7QO4",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "3, Jalan SS 13/6b, Subang Jaya Industrial Estate, Subang Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.7146235,
-          "lng": 101.948424
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.0787868,
+                "lng": 101.6243039
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.080193780291502,
+                    "lng": 101.6256527802915
+                },
+                "southwest": {
+                    "lat": 3.077495819708498,
+                    "lng": 101.6229548197085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.715958980291502,
-            "lng": 101.9497668802915
-          },
-          "southwest": {
-            "lat": 2.713261019708498,
-            "lng": 101.9470689197085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-      "icon_background_color": "#4B96F3",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-      "name": "Racing Boy @ Seremban",
-      "place_id": "ChIJ-Ss8DmPnzTERhfNOVO2tbiw",
-      "reference": "ChIJ-Ss8DmPnzTERhfNOVO2tbiw",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "store",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "No. 166, Jalan Tuanku Antah, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Hodaka Motoworld Sdn Bhd (PJCC)",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4640,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100882974936336690117\">Ivan Han Chong</a>"
+                ],
+                "photo_reference": "AWU5eFiG09cU5O5d1AItqu9KyV7dPGUnYYb2SQbWslRFusCBO381_HvAYuiQLq2FertJGC7SdDUxmYSJpMlLB2yHdBlX8IsSo-M5Ek-ITwQZiDeUfhFyrEq_9PBqUF1zQUbaWSnxz8vtBJPkgmXscqb1uiGPWv-_PxDzBR3PVB-LEk6ZekPc",
+                "width": 3480
+            }
+        ],
+        "place_id": "ChIJabP3foNLzDER5ou6z4TyWK4",
+        "plus_code": {
+            "compound_code": "3JHF+GP Petaling Jaya, Selangor, Malaysia",
+            "global_code": "6PM33JHF+GP"
+        },
+        "rating": 4.3,
+        "reference": "ChIJabP3foNLzDER5ou6z4TyWK4",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 169,
+        "vicinity": "82, Jalan PJS 5/30, Petaling Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.682156599999999,
-          "lng": 101.9298147
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.055937,
+                "lng": 101.6046987
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.057233030291501,
+                    "lng": 101.6060336802915
+                },
+                "southwest": {
+                    "lat": 3.054535069708498,
+                    "lng": 101.6033357197085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.683509830291502,
-            "lng": 101.9311672302915
-          },
-          "southwest": {
-            "lat": 2.680811869708498,
-            "lng": 101.9284692697085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-      "icon_background_color": "#4B96F3",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-      "name": "Rising East Wheels Centre",
-      "opening_hours": {
-        "open_now": false
-      },
-      "place_id": "ChIJAQAAkKvnzTERg6mdxJS5nV8",
-      "reference": "ChIJAQAAkKvnzTERg6mdxJS5nV8",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "store",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "Taman Harapan Baru, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Telerze Parts Galore",
+        "place_id": "ChIJ81bNJJhMzDER-bNmc0OjuV4",
+        "plus_code": {
+            "compound_code": "3J43+9V Subang Jaya, Selangor, Malaysia",
+            "global_code": "6PM33J43+9V"
+        },
+        "reference": "ChIJ81bNJJhMzDER-bNmc0OjuV4",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Jalan USJ 1/1b, Regalia Business Centre, Subang Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.7138965,
-          "lng": 101.9496701
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.0479061,
+                "lng": 101.6217981
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.049272180291502,
+                    "lng": 101.6230985302915
+                },
+                "southwest": {
+                    "lat": 3.046574219708498,
+                    "lng": 101.6204005697085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.715329780291502,
-            "lng": 101.9510537302915
-          },
-          "southwest": {
-            "lat": 2.712631819708498,
-            "lng": 101.9483557697085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-      "icon_background_color": "#7B9EB0",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
-      "name": "Seremban Tint Shop",
-      "photos": [
-        {
-          "height": 4344,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/115580161240284500740\">law win son</a>"
-          ],
-          "photo_reference": "AcJnMuEe4xhhTbjRbxmyUab-OGUhpCgI2tmY6OCrCwO5rgs6sE_Wrl1MkGI5-IF1pujf4I4UbX6VbwRVU33B7XUewv_9M7f60j1ixWD5-GUkoXgzDU5HORWC2q1UhabgK4h3FYYPmGKdkA4oJkQqk7Z7R74ZnarYgWXuDn8IXzg3DTrMfOWx",
-          "width": 5792
-        }
-      ],
-      "place_id": "ChIJoRe-CmPnzTERDudEdFf9bYw",
-      "plus_code": {
-        "compound_code": "PW7X+HV Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PW7X+HV"
-      },
-      "rating": 4.4,
-      "reference": "ChIJoRe-CmPnzTERDudEdFf9bYw",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 12,
-      "vicinity": "70100 No.142, 143, Jalan Tuanku Antah, Seremban Negeri Sembilan, Jalan Tuanku Antah, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Online Car Automart Accessories (used to be Brothers)",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100885485839589184959\">Wai Kin</a>"
+                ],
+                "photo_reference": "AWU5eFgabsNY61pXwmyQjKJ2oORqxwaWHgvg0ANEsdlJLMXkJmmkA1w1vV58ApN4PXffg3EtcsxzkA04SX_a12hq7qQNqgN7FNKGho4UT4sHZ--BMp6Xd7dRpxhTaEmJkCfzbkBolcTKxBj9QUGgthe1kbSmm636ga9_5uiGmPqc_UNaWLhm",
+                "width": 5184
+            }
+        ],
+        "place_id": "ChIJwXviYVlLzDERq98e61CnY5g",
+        "plus_code": {
+            "compound_code": "2JXC+5P Puchong, Selangor, Malaysia",
+            "global_code": "6PM32JXC+5P"
+        },
+        "rating": 2.9,
+        "reference": "ChIJwXviYVlLzDERq98e61CnY5g",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 54,
+        "vicinity": "11-16, Jalan Kenari 5, Bandar Puchong Jaya, Puchong"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.711186,
-          "lng": 101.9419429
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.0490706,
+                "lng": 101.5928513
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.050419330291502,
+                    "lng": 101.5941875302915
+                },
+                "southwest": {
+                    "lat": 3.047721369708498,
+                    "lng": 101.5914895697085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.712534330291502,
-            "lng": 101.9432954302915
-          },
-          "southwest": {
-            "lat": 2.709836369708498,
-            "lng": 101.9405974697085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-      "icon_background_color": "#4B96F3",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-      "name": "NS Speed Motor Parts & Acc SDN BHD",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 1080,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109171451277999381909\">Shabbir w</a>"
-          ],
-          "photo_reference": "AcJnMuGt2d3ygvSrMaoljnKY8gFqWQorLLGjogSOCK3qyQYoT6eclg0_szej_xUUdX5JtERbD4MIYokuMAA5oQXovanTV28mTUk9R-rJ1qxgZmXzsjlRZfjPe7aTqquf6If6eVXW9cwfS40iBQhBQnC2N84wCr3pvRwtyEZvDfQWHeKHp_21",
-          "width": 1440
-        }
-      ],
-      "place_id": "ChIJFSqZhaznzTER6D3rjVebSMc",
-      "plus_code": {
-        "compound_code": "PW6R+FQ Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PW6R+FQ"
-      },
-      "rating": 4.2,
-      "reference": "ChIJFSqZhaznzTER6D3rjVebSMc",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "store",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 99,
-      "vicinity": "1438, Jalan Rasah, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hyundai @ Jalan USJ 7/3B",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101964649296811599870\">Ghaith Hussein</a>"
+                ],
+                "photo_reference": "AWU5eFg-qCnZnJ11sNN4Q8SddM0FiZo1f18Fl_GtG35tHgtV0BydXVgpnwTxdNxDwYpzPWOXA5aRgxWujSSJ8kzcd36sBF3Rb1NvOQ-06MkgwLxye7c70n-smQdaoPbeGrZrjAOXqSflsSiH-g5UohUjlow5kXZ4S6UASi_K188jGaa77e0",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJCQVSVMdMzDERscqyXfEYc3c",
+        "plus_code": {
+            "compound_code": "2HXV+J4 Subang Jaya, Selangor, Malaysia",
+            "global_code": "6PM32HXV+J4"
+        },
+        "rating": 4.1,
+        "reference": "ChIJCQVSVMdMzDERscqyXfEYc3c",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 21,
+        "vicinity": "21, Jalan USJ 7/3b, Taman Perindustrian Uep, Subang Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.752022,
-          "lng": 101.9175416
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.0701449,
+                "lng": 101.6011643
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.071440980291502,
+                    "lng": 101.6025124302915
+                },
+                "southwest": {
+                    "lat": 3.068743019708498,
+                    "lng": 101.5998144697085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.753466930291502,
-            "lng": 101.9188478802915
-          },
-          "southwest": {
-            "lat": 2.750768969708498,
-            "lng": 101.9161499197085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-      "icon_background_color": "#7B9EB0",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
-      "name": "Fung Chan Motor Sdn. Bhd.",
-      "photos": [
-        {
-          "height": 2988,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/103807301872672701976\">Siva Kumar</a>"
-          ],
-          "photo_reference": "AcJnMuGvfS1EsUREyMErq7pnK3hBklrHAQoGsQOekMwFzsIfZD3wzqY9GCuLmEQNNPGycrA0yYHq1wzKbEok4HdsbcInwNpVRha-1pJsIyo2X4IpsQIhe0Adiyo3EJN6zZWd8mf0gVkbzzYUmF6ZCaiJECuYD0I0EnFSm4L6k4N0Fz0uS-qI",
-          "width": 5312
-        }
-      ],
-      "place_id": "ChIJiw20MRndzTERwefvinTS4-I",
-      "plus_code": {
-        "compound_code": "QW29+R2 Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3QW29+R2"
-      },
-      "rating": 3.7,
-      "reference": "ChIJiw20MRndzTERwefvinTS4-I",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 18,
-      "vicinity": "59, Jalan Lombong Emas 5, Seremban Light Industrial Park, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "JC Asia Motorsports (M) S/B",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 505,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110459558709988879018\">JC Asia Motorsports (M) S/B</a>"
+                ],
+                "photo_reference": "AWU5eFi5FR9rWS9y_ymDO4dEsH2XeDsTUb25AWZUtK1QfXynwA1ANxojJUKaz0vbnlrkBEOucxRf-vvUwAuHK3UXRtC1iPHJuR7mgzKZpyNSJQ5yKVjmSGl-WoxzMdkkmZgzBcrADru3-xAtZFskUTuNwQjsnu9QgYXNqbSck22B8-vKwGYl",
+                "width": 720
+            }
+        ],
+        "place_id": "ChIJS6-K74hMzDER-oa5q0_0uF8",
+        "plus_code": {
+            "compound_code": "3JC2+3F Petaling Jaya, Selangor, Malaysia",
+            "global_code": "6PM33JC2+3F"
+        },
+        "reference": "ChIJS6-K74hMzDER-oa5q0_0uF8",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "11, Jalan PJS 11/16, Bandar Sunway, Petaling Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.7277679,
-          "lng": 101.9365948
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.0673836,
+                "lng": 101.6031155
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.068733080291502,
+                    "lng": 101.6045198302915
+                },
+                "southwest": {
+                    "lat": 3.066035119708498,
+                    "lng": 101.6018218697085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.729106730291502,
-            "lng": 101.9379018802915
-          },
-          "southwest": {
-            "lat": 2.726408769708498,
-            "lng": 101.9352039197085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-      "icon_background_color": "#4B96F3",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-      "name": "Modenas @ A.L Wong Motor",
-      "place_id": "ChIJn7WrNJ3dzTERKSgfB-XRRjw",
-      "plus_code": {
-        "compound_code": "PWHP+4J Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PWHP+4J"
-      },
-      "reference": "ChIJn7WrNJ3dzTERKSgfB-XRRjw",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "store",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "61, Jalan Tuanku Munawir, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "D's Garage",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4144,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101954999286987956232\">Yap Jun Wah</a>"
+                ],
+                "photo_reference": "AWU5eFgVy2TtuGZ_GnLjs7Y0eqFw09WQVjsrD8EvbPNjmBAFR0KcgSAqlQzmAHz1LmUty8lFew-kHUccmkYSEByP_4vdE_AXFJ3nwRD8rnExG8OoQzjEHkP7eJrhfLB3JfHfIBKkCxMSY3858mPRyitEOhZ2MtSXS-sSHjCQ2YRBGJSCrab6",
+                "width": 1968
+            }
+        ],
+        "place_id": "ChIJTZOzc49MzDER2Rd5gUNv544",
+        "plus_code": {
+            "compound_code": "3J83+X6 Petaling Jaya, Selangor, Malaysia",
+            "global_code": "6PM33J83+X6"
+        },
+        "reference": "ChIJTZOzc49MzDER2Rd5gUNv544",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "No.37, Jalan PJS 11/9, Bandar Sunway, Petaling Jaya"
     },
     {
-      "business_status": "CLOSED_TEMPORARILY",
-      "geometry": {
-        "location": {
-          "lat": 2.728834,
-          "lng": 101.939612
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.0744444,
+                "lng": 101.6177778
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.075810830291501,
+                    "lng": 101.6190235302915
+                },
+                "southwest": {
+                    "lat": 3.073112869708498,
+                    "lng": 101.6163255697085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.730189030291502,
-            "lng": 101.9409695302915
-          },
-          "southwest": {
-            "lat": 2.727491069708498,
-            "lng": 101.9382715697085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-      "icon_background_color": "#4B96F3",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-      "name": "Home Creative Design Curtain",
-      "permanently_closed": true,
-      "place_id": "ChIJZfulv4bdzTER7Z32syv4sEw",
-      "plus_code": {
-        "compound_code": "PWHQ+GR Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PWHQ+GR"
-      },
-      "rating": 5,
-      "reference": "ChIJZfulv4bdzTER7Z32syv4sEw",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "furniture_store",
-        "home_goods_store",
-        "general_contractor",
-        "store",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 1,
-      "vicinity": "No. 8-10, Ground Floor, Jalan Yam Tuan, Negeri Sembilan, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "IMS Motorsports SDN BHD",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106065882823781520731\">Tony Lee</a>"
+                ],
+                "photo_reference": "AWU5eFj-cLHBnmpK_TuRo5OJi1ljZY81QIZwnsxguOvHFJ9MeHFfOP39xJw66C61-9a_sW1fyxzY-Vix553VfmnLkHmRM7Ti4RJKHbGUbg_wIkpaRgr59kxOGVIubTVrKixUvhxLsNfT_nIFD5t2KMk5aMXI-spHEiH91ddTr8_BU_62j5ck",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJHcBmOoBLzDERugkewf5RrjE",
+        "plus_code": {
+            "compound_code": "3JF9+Q4 Petaling Jaya, Selangor, Malaysia",
+            "global_code": "6PM33JF9+Q4"
+        },
+        "rating": 4.2,
+        "reference": "ChIJHcBmOoBLzDERugkewf5RrjE",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 17,
+        "vicinity": "No 1, Jalan PJS 7/19, Sunway Technology Park, Petaling Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.715206,
-          "lng": 101.9474832
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.109417099999999,
+                "lng": 101.6225842
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.110804380291501,
+                    "lng": 101.6239374802915
+                },
+                "southwest": {
+                    "lat": 3.108106419708498,
+                    "lng": 101.6212395197085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.716493180291502,
-            "lng": 101.9488052802915
-          },
-          "southwest": {
-            "lat": 2.713795219708498,
-            "lng": 101.9461073197085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-      "icon_background_color": "#7B9EB0",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
-      "name": "Gopo Auto Supply",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 1080,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/108339409177743738183\">kusangi Z5</a>"
-          ],
-          "photo_reference": "AcJnMuG_eDxd8WSjV4Woq0qzT8JhjGYVHYwyTz2sFLP5gWQpLKXazs_duzrXGvMROyDoHKaB6ZAA731hEKQhfuavt0vFjMn28WlX5gT_tetxZQoaLRkga1emB1scDY0krhfcDn8Wkcwhsi0gmNQng8qs0Ef7Fo3B7N_TUjbx7KVfTzMMUNGu",
-          "width": 1920
-        }
-      ],
-      "place_id": "ChIJAQAAQI_dzTEReWmm0YzPepk",
-      "plus_code": {
-        "compound_code": "PW8W+3X Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PW8W+3X"
-      },
-      "rating": 4.6,
-      "reference": "ChIJAQAAQI_dzTEReWmm0YzPepk",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 38,
-      "vicinity": "No. 89, Jalan Tuanku Antah (Jln Pahang), Negeri Sembilan, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Chia Motor Sdn Bhd",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111317059012907159110\">Chia Motor Sdn Bhd</a>"
+                ],
+                "photo_reference": "AWU5eFivBxbbmfGoMSy9QFmBDmY2hvvwVIlDrR1dKBUbBQfUnjmAhDnA_4EshuY8AxvF1L5WYOjQXyVx1LeFoIsT91GYmZZlJAzRXoywR9BP_21q8MJtG4pmHg00flArMcQfxtACH5cQ9JrFc-JyBBoKj-OD9vIA4Qdhb_T-gNUlndcA_vvg",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJpQ-KN_xLzDERXNGvu9Ui6zQ",
+        "plus_code": {
+            "compound_code": "4J5F+Q2 Petaling Jaya, Selangor, Malaysia",
+            "global_code": "6PM34J5F+Q2"
+        },
+        "rating": 4.2,
+        "reference": "ChIJpQ-KN_xLzDERXNGvu9Ui6zQ",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "insurance_agency",
+            "car_dealer",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 132,
+        "vicinity": "No. 11, Jalan 21/17, Sea Park, Petaling Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.7138733,
-          "lng": 101.9505118
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.0332753,
+                "lng": 101.6171512
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.034562480291502,
+                    "lng": 101.6185546302915
+                },
+                "southwest": {
+                    "lat": 3.031864519708498,
+                    "lng": 101.6158566697085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.715168330291502,
-            "lng": 101.9518391802915
-          },
-          "southwest": {
-            "lat": 2.712470369708498,
-            "lng": 101.9491412197085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-      "icon_background_color": "#4B96F3",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-      "name": "Perniagaan Motor Simma",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 2736,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/117865756808662241019\">M. Raffi A. Razak</a>"
-          ],
-          "photo_reference": "AcJnMuH7ahUkdvCABiDcQ1Ws82a9qPwvOzUGf1OhQpjQJ_jGns_NB6ENJcCS0jz48J74i5w-rVkxeIBURvH8N95AHUNAV2Owgs36edHpsQhYlljQ5XLCivze-6qNN4GZpHDfOvEtFyMkcP_PlCG1qVZ8q7L2Sz-ZYx-hiScv2sdrdYw_5ent",
-          "width": 3648
-        }
-      ],
-      "place_id": "ChIJvbGK7GPnzTERFLFW6wx8wc4",
-      "plus_code": {
-        "compound_code": "PX72+G6 Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PX72+G6"
-      },
-      "rating": 3.9,
-      "reference": "ChIJvbGK7GPnzTERFLFW6wx8wc4",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "store",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 311,
-      "vicinity": "166, Jalan Tuanku Antah, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hong Lap Car Service Bandar Puchong",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 885,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118072361553689185877\">Hong Lap Car Service Bandar Puchong</a>"
+                ],
+                "photo_reference": "AWU5eFhiOHtH2STpPF9C5LXFI8lc4f3Z7WIrxMxVMc5tGVqrii8mao1Rw-r22HKdtGPUq_gTaRi5sSW3KKaOdiNMkC0mnxE2C_YI1olKCTZ9fAxbqgfDlOAiXQUgZyaZkVnJ5YkVIuBePXCVL0gbVo5lCa0MGmPTYQL4PcRjsKU5dUVYe-I_",
+                "width": 1285
+            }
+        ],
+        "place_id": "ChIJ-ZhIvqq0zTERttHGDMn9VOo",
+        "plus_code": {
+            "compound_code": "2JM8+8V Puchong, Selangor, Malaysia",
+            "global_code": "6PM32JM8+8V"
+        },
+        "rating": 4,
+        "reference": "ChIJ-ZhIvqq0zTERttHGDMn9VOo",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 45,
+        "vicinity": "81G, Jalan Bandar 1, Pusat Bandar Puchong, Puchong"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.7134906,
-          "lng": 101.9505047
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.0810489,
+                "lng": 101.646445
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.082296580291502,
+                    "lng": 101.6477839802915
+                },
+                "southwest": {
+                    "lat": 3.079598619708499,
+                    "lng": 101.6450860197085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.714944330291502,
-            "lng": 101.9519024802915
-          },
-          "southwest": {
-            "lat": 2.712246369708498,
-            "lng": 101.9492045197085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-      "icon_background_color": "#4B96F3",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-      "name": "Hyundai Seremban Accident Claim Repair, Sales & Services (Wheelex Sdn Bhd)",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 1227,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102890447878726550113\">Hyundai Seremban Accident Claim Repair, Sales &amp; Services (Wheelex Sdn Bhd)</a>"
-          ],
-          "photo_reference": "AcJnMuFyIkFfwug4ljzKlzJusjMl_Ldz3koE8SnZwqW2z5PQ_6ultClW2V9D1VTvEw0Q3od4-GcURoZAoxvdYxle-me5fj3z0ak46MI62kTgQZNYU8E_sPFbAQwKZHP6Ivof5ipHnr-v5Q3-3vh7-nK9la9ajngF5JdisnSH_5A3iLCgKEwJ",
-          "width": 1840
-        }
-      ],
-      "place_id": "ChIJp6MzDGPnzTERfTEatfNuw5U",
-      "plus_code": {
-        "compound_code": "PX72+96 Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PX72+96"
-      },
-      "rating": 4.3,
-      "reference": "ChIJp6MzDGPnzTERfTEatfNuw5U",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "car_dealer",
-        "store",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 83,
-      "vicinity": "120A, Jalan Tuanku Antah, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Raceline Motorcycle Center Sdn Bhd",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106250050932989771233\">Mohd Shahrizal Kamarudin</a>"
+                ],
+                "photo_reference": "AWU5eFijePD-SZavuxWpO2N1_VrEIhJAUiq9PB1asG_p_t-R-Q3lc-D0Q1iWYxzXogZphdB-059i_c931YXQuVhIKteGQug5TjvN3VvB0Chf81sYEF82VqsaBVVbrL1lZyQwK_FUiJT_XaBR4qbSZ_QmHrgLK4gCp2mK94AixO_GdN49fugk",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJnaTy-aRLzDERViRlddOf9rY",
+        "plus_code": {
+            "compound_code": "3JJW+CH Petaling Jaya, Selangor, Malaysia",
+            "global_code": "6PM33JJW+CH"
+        },
+        "rating": 4.1,
+        "reference": "ChIJnaTy-aRLzDERViRlddOf9rY",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8,
+        "vicinity": "8, Jalan Petaling Jaya Utama 3 & Batu 7, Jalan Klang Lama, Taman Petaling Utama, Petaling Jaya"
     },
     {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 2.713084400000001,
-          "lng": 101.9505046
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 3.043363,
+                "lng": 101.641575
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 3.044712280291502,
+                    "lng": 101.6429685802915
+                },
+                "southwest": {
+                    "lat": 3.042014319708498,
+                    "lng": 101.6402706197085
+                }
+            }
         },
-        "viewport": {
-          "northeast": {
-            "lat": 2.714477630291502,
-            "lng": 101.9519333802915
-          },
-          "southwest": {
-            "lat": 2.711779669708498,
-            "lng": 101.9492354197085
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
-      "icon_background_color": "#4B96F3",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
-      "name": "Chee Seng & Co",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 4160,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/116854181459760901303\">cheladurai ramasami</a>"
-          ],
-          "photo_reference": "AcJnMuHJw3a4MS88rJkWySg4qyJ7-iTdypGb8SaTDSEmNOCEZRkEAj4qBpkOOaMPB2J4Z-QJ814FbgqPdzhLv4s6s-p9S7ff-8XkhvfEUYE1y6Fv8v2ZE4IJeK5U26Ssjw24P2qcL2GmyaUUAY0DDskoDcX2A99CXVTyjvKjvEl9SwBMiq6F",
-          "width": 3120
-        }
-      ],
-      "place_id": "ChIJ-Ss8DmPnzTER93A5BH8PMVU",
-      "plus_code": {
-        "compound_code": "PX72+66 Seremban, Negeri Sembilan, Malaysia",
-        "global_code": "6PJ3PX72+66"
-      },
-      "rating": 4.5,
-      "reference": "ChIJ-Ss8DmPnzTER93A5BH8PMVU",
-      "scope": "GOOGLE",
-      "types": [
-        "car_repair",
-        "store",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 8,
-      "vicinity": "529-A, Jalan Tuanku Antah, Seremban"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "DriveNOW Motors Malaysia",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101197185425797290633\">DriveNOW Motors Malaysia</a>"
+                ],
+                "photo_reference": "AWU5eFjS4TViLMEGSdkvik-vr1C_bNkpllz-T_k7QL0IhL3jo96ksGikbZ08VU8H4kX4G1FQd-ink_Cy3_6iMVZ5CKhsBemKpJggzhafB6dbYN-ks-P9bI94hG3ewrSsZ9fSj-ibMQNvxokZrk9ioMH_fst8eEBP4hKqs2QHG6mRxQATjIVu",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJDY7sEdBMzDERAOc6-licavo",
+        "plus_code": {
+            "compound_code": "2JVR+8J Subang Jaya, Selangor, Malaysia",
+            "global_code": "6PM32JVR+8J"
+        },
+        "reference": "ChIJDY7sEdBMzDERAOc6-licavo",
+        "scope": "GOOGLE",
+        "types": [
+            "car_dealer",
+            "car_rental",
+            "car_repair",
+            "electronics_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Bandar Kinrara 4, Subang Jaya"
     }
-  ]
+]

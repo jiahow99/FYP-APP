@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "C200",
+        "brand": "Mercedes",
+        "mileage": 90000,
+        "year_make": 2023,
+        "userName": "Liong Kah How"
+    },
+    {
+        "id": 2,
+        "name": "3 Series",
+        "brand": "BMW",
+        "mileage": 90000,
+        "year_make": 2023,
+        "userName": "Liong Kah How"
+    }
+]

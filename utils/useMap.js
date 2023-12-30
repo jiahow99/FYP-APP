@@ -1,24 +1,13 @@
 import * as Location from 'expo-location';
-import {GOOGLE_API_KEY} from '@env';
+import {GOOGLE_API_KEY, API_URL} from '@env';
 import axios from 'axios';
-
+import storeDummyData from '../assets/data/stores.json';
 
 const useMap = () => {
     // Get location service
     const getLocationService = async () => {
         let { status } = await Location.requestForegroundPermissionsAsync();
         return status === 'granted';
-    }
-
-    // Current location
-    const getCurrentLocation = async () => {
-        let location = await Location.getCurrentPositionAsync({});
-        return {
-            latitude: location.coords.latitude,
-            longitude: location.coords.longitude,
-            latitudeDelta: 0.01,
-            longitudeDelta: 0.01,
-        };
     }
 
     // Search nearby place
@@ -33,9 +22,13 @@ const useMap = () => {
               }
             });
             const results =  response.data.results;
-            return results;
+            // Verifit stores with API
+            // add "is_registered" and "token" tp registered store
+            const data = {stores: results};
+            const verifiedStores = await axios.post(`https://f76d-113-23-129-82.ngrok-free.app/api/verify-stores`, data);
+            return verifiedStores.data;
         } catch (error) {
-            alert(error)
+            alert(`Error verify stores. ${JSON.stringify(error)}`);
         }
     }
 
@@ -66,7 +59,7 @@ const useMap = () => {
       };
 
 
-    return {getLocationService, getCurrentLocation, searchNearbyStore, calculateDistance};
+    return {getLocationService, searchNearbyStore, calculateDistance};
 }
 
 export default useMap;

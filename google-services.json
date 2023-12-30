@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90644583254",
+    "project_id": "car-repair-app-766de",
+    "storage_bucket": "car-repair-app-766de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90644583254:android:cc3587dd9b21850ac9fcf7",
+        "android_client_info": {
+          "package_name": "com.jiahow99.carrepairappexpos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDup3E5UZbkFudz_5AQjgNRIb-1pasas0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

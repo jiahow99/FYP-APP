@@ -1,6 +1,6 @@
 import { View, Text, TouchableOpacity } from 'react-native'
 import React, { forwardRef, useImperativeHandle, useRef } from 'react'
-import BottomSheet, { BottomSheetBackdrop, BottomSheetScrollView } from '@gorhom/bottom-sheet';
+import BottomSheet, { BottomSheetBackdrop, BottomSheetModal, BottomSheetScrollView } from '@gorhom/bottom-sheet';
 import { useMemo, useCallback } from 'react';
 import { Image } from 'react-native';
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons'
@@ -10,29 +10,21 @@ import Review from './Review';
 import About from './About';
 import { useState } from 'react';
 import {GOOGLE_API_KEY} from '@env';
+import { router } from 'expo-router';
+import useMap from '../../utils/useMap';
+import { userStore } from '../../store/UserStore';
+import { renderBackdrop, snapPoints } from '../../utils/bottomsheet';
 
-const StoreBottomSheet = forwardRef(({}, ref) => {
-    const [store, setStore] = useState(null);
-
+const StoreBottomSheet = forwardRef(({selectStore}, ref) => {
     useImperativeHandle(ref, () => {
         return {
-            expand
+            expand,handleClose
         }
     })
-
+    const [store, setStore] = useState(null);
     const bottomSheet = useRef(null);
-    const snapPoints = useMemo(() => ['25%', '90%'], []);
-
-    const renderBackdrop = useCallback(
-        props => (
-            <BottomSheetBackdrop
-                {...props}
-                disappearsOnIndex={0}
-                appearsOnIndex={1}
-            />
-        )
-    )
-
+    const { calculateDistance } = useMap();
+    const { location } = userStore;
     const reviews = [
         {
             id: 1,
@@ -52,22 +44,29 @@ const StoreBottomSheet = forwardRef(({}, ref) => {
     ]
 
     const handleClose = () => {
-        bottomSheet.current.close();
+        bottomSheet.current?.close();
     }
 
     const expand = (selectedStore) => {
         setStore(selectedStore);
-        bottomSheet.current.expand();
+        bottomSheet.current?.present();
+    }
+
+    const handleSelect = () => {
+        bottomSheet.current?.dismiss();
+        selectStore(store);
     }
 
     return (
-        <BottomSheet
+        <BottomSheetModal
             ref={bottomSheet}
-            index={-1}
-            snapPoints={snapPoints}
-            backdropComponent={renderBackdrop}
+            index={1}
+            snapPoints={snapPoints(['25%','90%'])}
+            backdropComponent={renderBackdrop(0,-1, 'close')}
+            enablePanDownToClose
         >
-            <BottomSheetScrollView>
+            {store && (
+            <ScrollView>
                 <View className="px-5">
                     {/* Close Button */}
                     <TouchableOpacity onPress={handleClose} className="ml-auto w-10 h-10 rounded-xl bg-black flex items-center justify-center">
@@ -91,30 +90,32 @@ const StoreBottomSheet = forwardRef(({}, ref) => {
                     {/* Name */}
                     <View className="flex flex-row items-center mt-3">
                         <Text className="font-bold text-xl">
-                            { store?.name } - 0.5 km
+                            { store?.name } - {calculateDistance(store?.geometry?.location, location)} km
                         </Text>
                         <MaterialIcons name="location-on" size={25} />
                     </View>
                     {/* About */}
                     <ScrollView horizontal className="mt-5">
-                        <About name='Ratings' rate='4.5' />
-                        <About name='Reviews' rate='390'  />
+                        <About name='Ratings' rate={store?.rating || 0} />
+                        <About name='Reviews' rate={store?.user_ratings_total || 0}  />
                         <About name='Respond Rate' rate='95 %' />
                     </ScrollView>
                     {/* Services */}
-                    <View className="mt-5">
-                        <Text className="text-lg font-bold">Services</Text>
-                        <ScrollView 
-                            horizontal 
-                            className="mt-4" 
-                            contentContainerStyle={{ columnGap: 5 }}
-                            showsHorizontalScrollIndicator={false}
-                        >
-                            <Service name="Tyre Change" src={require('../../assets/icons/service_tyre_change.png')} />
-                            <Service name="Request Mechanic" src={require('../../assets/icons/service_request_mechanic.png')} />
-                            <Service name="Car Parts Store" src={require('../../assets/icons/service_store.png')} />
-                        </ScrollView>
-                    </View>
+                    {store?.is_registered && (
+                        <View className="mt-5">
+                            <Text className="text-lg font-bold">Services</Text>
+                            <ScrollView 
+                                horizontal 
+                                className="mt-4" 
+                                contentContainerStyle={{ columnGap: 5 }}
+                                showsHorizontalScrollIndicator={false}
+                            >
+                                <Service name="Tyre Change" src={require('../../assets/icons/service_tyre_change.png')} />
+                                <Service name="Request Mechanic" src={require('../../assets/icons/service_request_mechanic.png')} />
+                                <Service name="Car Parts Store" src={require('../../assets/icons/service_store.png')} />
+                            </ScrollView>
+                        </View>
+                    )}
                     {/* Reviews */}
                     <View className="mt-5">
                         <Text className="text-lg font-bold">Reviews</Text>
@@ -129,13 +130,16 @@ const StoreBottomSheet = forwardRef(({}, ref) => {
                         />
                     </View>
                     {/* Confirm Button */}
-                    <TouchableOpacity className="w-full bg-[#1FE89C] rounded-full py-3 my-3 mx-auto">
-                        <Text className="w-fit tracking-widest mx-auto text-white text-xl font-bold">Confirm</Text>
-                    </TouchableOpacity>
+                    {store?.is_registered && (
+                        <TouchableOpacity onPress={handleSelect} className="w-full bg-[#1FE89C] rounded-full py-3 my-3 mx-auto">
+                            <Text className="w-fit tracking-widest mx-auto text-white text-xl font-bold">Confirm</Text>
+                        </TouchableOpacity>
+                    )}
                 </View>
                 
-            </BottomSheetScrollView>
-        </BottomSheet>
+            </ScrollView>
+            )}
+        </BottomSheetModal>
     )
 })
 

@@ -5,9 +5,39 @@
       "bundler": "metro"
     },
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-location"
     ],
     "name": "car-repair-app-expos",
-    "slug": "car-repair-app-expos"
+    "slug": "car-repair-app-expos",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "6c0c9e50-b110-46d7-baa6-21662d05a611"
+      }
+    },
+    "android": {
+      "package": "com.jiahow99.carrepairappexpos",
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAEiBJsY0Xe5WMeNVyPWrgARMZZfi412B8"
+        }
+      },
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION"
+      ]
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/6c0c9e50-b110-46d7-baa6-21662d05a611"
+    },
+    "ios": {}
   }
 }

@@ -1,0 +1,22 @@
+{
+  "cli": {
+    "version": ">= 5.9.0"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "env": {
+        "API_URL": "https://f534-113-23-129-82.ngrok-free.app",
+        "GOOGLE_API_KEY" : "AIzaSyAEiBJsY0Xe5WMeNVyPWrgARMZZfi412B8"
+      }
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {}
+  },
+  "submit": {
+    "production": {}
+  }
+}
